@@ -14,6 +14,7 @@ class CreateAirportAirlineTable extends Migration
     public function up()
     {
         Schema::create('airport_airline', function (Blueprint $table) {
+            $table->bigIncrements('id');
             $table->unsignedBigInteger('airport_id');
             $table->unsignedBigInteger('airline_id');
 
