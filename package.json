@@ -14,7 +14,7 @@
     "fontfaceobserver": "^2.1.0",
     "formik": "^2.0.6",
     "history": "^4.10.1",
-    "immer": "^5.0.0",
+    "immer": "^9.0.6",
     "intl": "^1.2.5",
     "invariant": "^2.2.4",
     "lodash": "^4.17.15",
